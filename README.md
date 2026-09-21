@@ -2,7 +2,7 @@
 
 Aplicação web estática para partilha segura de ficheiros **Peer-to-Peer (P2P)** com **encriptação ponta a ponta (E2EE)** diretamente no navegador, sem necessidade de servidores de backend ou armazenamento central de ficheiros.
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 - **Frontend:** [Svelte 5](https://svelte.dev) + [SvelteKit 2](https://kit.svelte.dev) (SPA estática via `@sveltejs/adapter-static`)
 - **P2P Swarm:** [WebTorrent](https://webtorrent.io) (WebRTC + WebSockets trackers públicos)
@@ -11,7 +11,7 @@ Aplicação web estática para partilha segura de ficheiros **Peer-to-Peer (P2P)
 
 ---
 
-## 🛠️ Como Executar Localmente
+##  Como Executar Localmente
 
 1. **Instalar dependências:**
    ```bash
@@ -32,7 +32,7 @@ Aplicação web estática para partilha segura de ficheiros **Peer-to-Peer (P2P)
 
 ---
 
-## 🌐 Publicação no GitHub Pages
+##  Publicação no GitHub Pages
 
 A aplicação está configurada para deploy automático através do **GitHub Actions**.
 
