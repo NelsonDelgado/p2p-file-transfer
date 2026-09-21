@@ -1,4 +1,4 @@
-# P2P Secure File Transfer (Projeto MultiCadeiras)
+# P2P Secure File Transfer
 
 Aplicação web estática para partilha segura de ficheiros **Peer-to-Peer (P2P)** com **encriptação ponta a ponta (E2EE)** diretamente no navegador, sem necessidade de servidores de backend ou armazenamento central de ficheiros.
 
